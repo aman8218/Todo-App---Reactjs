@@ -27,15 +27,16 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/aman8218/Todo-App---Reactjs.git
 cd your-repo-name
 
-### Install backend dependencies:
+2. **Install backend dependencies:**
 
 cd backend
 npm install
-
-### Install frontend dependencies:
+  
+ Install frontend dependencies:
+ 
 cd ..
 npm install
 
